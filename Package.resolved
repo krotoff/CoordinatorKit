@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "coordinatableviewcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krotoff/CoordinatableViewController",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8eefcb8fcf91d8e00814641cb0dd261a021514b6"
+      }
+    }
+  ],
+  "version" : 2
+}
